@@ -101,7 +101,7 @@ BatGPT-15B-sirius 具体参数和见下表:
 The specific parameters of BatGPT-15B-sirius are as follows:
 |     Model Name       | Hidden Size  | Num Layers | Query Heads | Key/Value Heads |Vocab Size | Total Params | Training Dats（tokens） | Position Embedding | Max Length |
 |-------------------------|-------|------------|------------|------------|-----------------|--------|--------|----------------|---------|
-| BatGPT-15B-sirius             | 5,632  | 48   | 44    | 2   | 65,536    | 15,030,081,024  | 1 万亿           | [RoPE](https://arxiv.org/abs/2104.09864)    | 32K    |
+| BatGPT-15B-sirius             | 5,632  | 48   | 44    | 2   | 65,536    | 15,030,081,024  | 1T           | [RoPE](https://arxiv.org/abs/2104.09864)    | 32K    |
 
 
 
