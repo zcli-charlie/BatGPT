@@ -1,0 +1,14 @@
+torch>=2.0
+datasets
+matplotlib
+huggingface_hub
+streamlit
+gradio
+mdtex2html
+protobuf
+transformers
+cpm_kernels
+streamlit
+sentencepiece
+accelerate
+deepspeed
